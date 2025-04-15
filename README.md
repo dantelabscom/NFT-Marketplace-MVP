@@ -33,7 +33,7 @@ Mythik aims to be a one-stop hub for gaming collectibles on the Ethereum Smart C
 You can list your ETH-based game NFTs on our marketplace and sell them to other users.
 
 
-<a id='preview' />
+<!-- <a id='preview' />
 
 ## Preview
 
@@ -41,7 +41,7 @@ You can list your ETH-based game NFTs on our marketplace and sell them to other 
   <img alt="landpage" src="https://github.com/yusufb026/Integration-of-NFT-marketplace/blob/main/src/img/Demo_platform.png">
 <p />
 
-<a id='architecture' />
+<a id='architecture' /> -->
 
 <!-- ## Architecture of the Project
 
