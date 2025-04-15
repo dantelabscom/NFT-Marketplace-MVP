@@ -43,14 +43,14 @@ You can list your ETH-based game NFTs on our marketplace and sell them to other 
 
 <a id='architecture' />
 
-## Architecture of the Project
+<!-- ## Architecture of the Project
 
 <p align="center">
   <img alt="Frontend-Flow" src="https://github.com/yusufb026/Integration-of-NFT-marketplace/blob/main/src/img/frontend%20Arch.png">
 <p />
 <p align="center">
   <img alt="Backend-Flow" src="https://github.com/yusufb026/Integration-of-NFT-marketplace/blob/main/src/img/backend_Arch.png">
-<p />
+<p /> -->
 
 <a id='feature' />
 
@@ -119,8 +119,6 @@ There are some things to be done in the project:
 
 <a id='license'/>
 
-## License
 
-This project is under the **MIT license**. See the [LICENSE](https://github.com/AlexiaYuriko24/Coin-Marketplace/blob/main/LICENCE) for more information.
 
 
