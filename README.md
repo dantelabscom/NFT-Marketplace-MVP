@@ -16,7 +16,6 @@
 
 - [About](#about)
 - [Preview](#preview)
-<!-- - [Architecture of the Project](#architecture) -->
 - [Features](#feature)
 - [Based On](#technologies)
 - [How to Run](#how-to-run)
